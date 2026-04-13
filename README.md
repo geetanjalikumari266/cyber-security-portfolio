@@ -32,3 +32,13 @@ I am a beginner in Cyber Security and currently learning networking, scanning an
 LinkedIn: (www.linkedin.com/in/
 geetanjali-kumari-13351a260
 )
+
+## 🔐 Platforms & Practice
+
+### TryHackMe
+- Completed: Offensive Security Intro
+- Skills Learned: Scanning, Enumeration, Basic Attacks
+
+### PortSwigger (Web Security Academy)
+- Completed Labs: SQL Injection Basics
+- Skills Learned: SQL Injection, Authentication Bypass
