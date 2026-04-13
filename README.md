@@ -37,6 +37,8 @@ geetanjali-kumari-13351a260
 
 ### TryHackMe
 - Completed: Offensive Security Intro
+- ![Screenshot](TryHackMe/Offensive-Security-Intro/screenshot.png)
+- 📝 Notes: [Click Here](TryHackMe/Offensive-Security-Intro/notes.md)
 - Skills Learned: Scanning, Enumeration, Basic Attacks
 
 ### PortSwigger (Web Security Academy)
