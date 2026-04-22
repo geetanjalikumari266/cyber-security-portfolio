@@ -37,9 +37,7 @@ geetanjali-kumari-13351a260
 
 ### TryHackMe
 - Completed: Offensive Security Intro
-- ![Screenshot](tryhackme1.png)
-- [![TryHackMe Room Completed](images/tryhackme1.png)](images/tryhackme1.png)tryhackme1.png
-- !Screenshort(cyber-security-portfolio/tryhackme1.png)
+- ![Screenshot](tryhackme1.png))
 - 📝 Notes: [Click Here](TryHackMe/Offensive-Security-Intro/notes.md)
 - Skills Learned: Scanning, Enumeration, Basic Attacks
 
